@@ -1,5 +1,26 @@
 function HomePage() {
-  return <div className="text-black-100 bg-blue-100">Welcome to Next.js!</div>
+  return (
+    <>
+      <div className="site-container">
+        <div className="space-y-4">
+          <h1 className="text-2xl font-bold">
+            Ben Ahmet Ertürk. İstanbul'da yaşayan bir yazılım geliştiricisiyim.
+          </h1>
+          <p>
+            SAP ABAP yazılımları geliştiriyor, JavaScript öğreniyor ve
+            JavaScript frameworklerini yakından takip ediyorum.
+          </p>
+          <p>
+            Sektördeki eski teknoloji ve alışkanlıkları yenilerle değiştirmek
+            için websitemde modern Türkçe içerikler üretiyorum.
+          </p>
+        </div>
+        <div className="mt-20">
+          <img src="/home-photo.jpg" alt="Home Photo" />
+        </div>
+      </div>
+    </>
+  )
 }
 
 export default HomePage
