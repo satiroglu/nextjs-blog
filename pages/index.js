@@ -15,7 +15,7 @@ function HomePage() {
             için websitemde modern Türkçe içerikler üretiyorum.
           </p>
         </div>
-        <div className="mt-20">
+        <div className="mt-10">
           <img src="/home-photo.jpg" alt="Home Photo" />
         </div>
       </div>
