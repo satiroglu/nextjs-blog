@@ -15,10 +15,10 @@ function HomePage() {
             için websitemde modern Türkçe içerikler üretiyorum.
           </p>
         </div>
-        <div className="mt-10">
-          <img src="/home-photo.jpg" alt="Home Photo" />
-        </div>
       </div>
+      <div className="site-4xl-container mt-20">
+        <img src="/home-photo.jpg" alt="Home Photo" />
+      </div>{' '}
     </>
   )
 }
