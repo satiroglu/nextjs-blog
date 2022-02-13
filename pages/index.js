@@ -18,7 +18,7 @@ function HomePage() {
       </div>
       <div className="site-4xl-container mt-20">
         <img src="/home-photo.jpg" alt="Home Photo" />
-      </div>{' '}
+      </div>
     </>
   )
 }

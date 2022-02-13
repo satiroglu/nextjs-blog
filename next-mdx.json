@@ -4,8 +4,5 @@
     "basePath": "/blog",
     "sortBy": "date",
     "sortOrder": "desc"
-  },
-  "category": {
-    "contentPath": "content/categories"
   }
 }

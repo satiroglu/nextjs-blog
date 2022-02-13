@@ -8,20 +8,22 @@ function Hakkimda() {
             <img src="/hakkimda.jpg" alt="Home Photo" />
           </div>
           <p>
-            İstanbul’da yaşıyorum. Lise yıllarımdan bu yana (2003’ten beri)
-            yazılımla ilgileniyorum. Profesyonel iş hayatım 5 yılı finans
-            alanında çalışma geçti. Şu anda ise aktif olarak yazılım sektöründe
-            SAP ABAP yazılımcısı olarak çalışıyorum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+            pellentesque, magna vitae interdum faucibus, turpis nisl tincidunt
+            massa, eu fermentum est augue eu dolor. Morbi nec ipsum et arcu
+            sagittis ultrices quis ac odio. Nullam sit amet sapien a nulla
+            lacinia varius. Suspendisse potenti. Nulla at diam laoreet, laoreet
+            velit et, sodales tortor. Sed sed odio eu ipsum egestas condimentum.
+            Sed id tellus tempor, euismod nisi vel, tincidunt metus.
           </p>
           <p>
-            Avrupa’da yaklaşık 9-10 ülke gezdim, gördüm. Bir süre Polonya’da bir
-            süre de İngiltere’de yaşadım. Ardından Türkiye’ye dönüp İstanbul’da
-            yaşamaya başladım.
-          </p>
-          <p>
-            Girişimcilik, yazılım, teknoloji, finans ve genel konularda yazılar
-            paylaşmaya çalışıyorum vakit buldukça. LinkedIn ya da diğer sosyal
-            medya hesaplarımdan beni takip edebilir ve kolayca ulaşabilirsiniz.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+            pellentesque, magna vitae interdum faucibus, turpis nisl tincidunt
+            massa, eu fermentum est augue eu dolor. Morbi nec ipsum et arcu
+            sagittis ultrices quis ac odio. Nullam sit amet sapien a nulla
+            lacinia varius. Suspendisse potenti. Nulla at diam laoreet, laoreet
+            velit et, sodales tortor. Sed sed odio eu ipsum egestas condimentum.
+            Sed id tellus tempor, euismod nisi vel, tincidunt metus.
           </p>
         </div>
       </div>
